@@ -3,8 +3,8 @@
 ## Include guidelines for contributing to the project
 
 ### how to clone the repo
-Go to the repositoru and copy the URL, use git clone [repo url] 
-- example _git clone https://github.com/rufustech/cpnt-201-myself to get this repo_
+Go to the repository and copy the URL, use git clone [repo url] 
+- example _git clone https://github.com/rufustech/cpnt-201-myself_ to get this repo
 
 
 ### how to create a new branch and make changes
